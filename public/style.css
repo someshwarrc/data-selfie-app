@@ -1,0 +1,15 @@
+h1{
+    margin: 2rem;
+    color: rgba(123, 200, 220, 0.9);
+    font-size: 3rem;
+    text-align: center;
+}
+
+video, div, input, button{
+    margin: 1rem auto;
+    display: block;
+    text-align: center;
+}
+
+
+
